@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/nurba47/one-music/issues"
   },
-  "homepage": "https://github.com/nurba47/one-music#readme"
+  "homepage": "https://github.com/nurba47/one-music#readme",
+  "dependencies": {
+    "git": "^0.1.5",
+    "heroku": "^7.19.3"
+  }
 }
