@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dd6f83b7-8f5a-4cc5-ab78-480c89d3f433" name="Default Changelist" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/nurba47.github.io" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -147,6 +146,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -208,7 +208,7 @@
       <updated>1543810394819</updated>
       <workItem from="1543810396099" duration="4701000" />
       <workItem from="1544336178325" duration="6687000" />
-      <workItem from="1544349131086" duration="558000" />
+      <workItem from="1544349131086" duration="1097000" />
     </task>
     <task id="LOCAL-00001" summary="add pakcage.json">
       <created>1543823199916</created>
@@ -277,7 +277,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11946000" />
+    <option name="totallyTimeSpent" value="12485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
